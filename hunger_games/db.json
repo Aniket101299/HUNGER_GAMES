@@ -1,0 +1,21 @@
+{
+  "get-restaurants": [
+    {
+      "category": [
+        "Continental",
+        "Asian"
+      ],
+      "name": "Spago",
+      "img_url": "https://tse3.mm.bing.net/th?id=OIP.jmvknqPOxZtkWH21lKIu6AHaDt&pid=Api&P=0&w=346&h=173",
+      "cost": "5000",
+      "rating": "3.2",
+      "votes": "520",
+      "views": "344",
+      "paymentMode": [
+        "UPI",
+        "Card"
+      ],
+      "id": 1
+    }
+  ]
+}
