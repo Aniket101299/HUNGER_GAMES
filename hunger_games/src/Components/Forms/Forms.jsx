@@ -1,12 +1,8 @@
 import axios from "axios";
-import { useState,useEffect } from "react"
-import { RestaurantDetails } from "../RestaurantDetails/RestaurantDetails";
+import { useState,useEffect } from "react";
+import "./Forms.css";
 
 export const Forms = ()=>{
-
-const [data,setData] = useState([]);
-
-const [call,setCall] = useState(false);
 
 const [formData,setFormData] = useState({
     category:[],
@@ -19,13 +15,6 @@ const [formData,setFormData] = useState({
     paymentMode:[]
 })
 
-
-useEffect(()=>{
-    axios.get("http://localhost:3001/get-restaurants").then((response)=>{
-    setData(response.data);
-})
-
-},[call])
 
 
 const handleChange = (e)=> {
@@ -94,14 +83,15 @@ setFormData({
     votes:"",
     views:"",
     paymentMode:[]
-});
-setCall(!call)
+})
+
 }
 
 
 
     return(
         <>
+
         <form onSubmit={handleSubmit}>
             <h1>Add new Restaurant</h1>
             <label>Continental</label>
@@ -159,17 +149,6 @@ setCall(!call)
             <br/>
             <input type="submit" value="Add Restaurent"/>
         </form>
-
-
-        <div>
-            {data.map((item)=> {
-                return <>
-                  <RestaurantDetails {...item}/>
-                </>
-            })}
-        </div>
-       
-
 
 
         </>

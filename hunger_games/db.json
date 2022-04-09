@@ -8,7 +8,7 @@
       "name": "Spago",
       "img_url": "https://tse3.mm.bing.net/th?id=OIP.jmvknqPOxZtkWH21lKIu6AHaDt&pid=Api&P=0&w=346&h=173",
       "cost": "5000",
-      "rating": "3.2",
+      "rating": "3",
       "votes": "520",
       "views": "344",
       "paymentMode": [
@@ -16,6 +16,227 @@
         "Card"
       ],
       "id": 1
+    },
+    {
+      "category": [
+        "Pizza Burger",
+        "South Indian",
+        "Asian"
+      ],
+      "name": "Vikings",
+      "img_url": "https://tse3.mm.bing.net/th?id=OIP.DmI1vk_xupFibDeoXXfyQQHaE8&pid=Api&P=0&w=259&h=173",
+      "cost": "8000",
+      "rating": "5",
+      "votes": "588",
+      "views": "711",
+      "paymentMode": [
+        "Cash",
+        "UPI",
+        "Card"
+      ],
+      "id": 2
+    },
+    {
+      "category": [
+        "Asian",
+        "South Indian"
+      ],
+      "name": "Shine",
+      "img_url": "https://tse3.mm.bing.net/th?id=OIP.puh5kldzxZZYBFbOPkCZuwHaFj&pid=Api&P=0&w=207&h=155",
+      "cost": "6500",
+      "rating": "4",
+      "votes": "465",
+      "views": "501",
+      "paymentMode": [
+        "Cash"
+      ],
+      "id": 3
+    },
+    {
+      "category": [
+        "Desserts",
+        "Continental"
+      ],
+      "name": "Mario",
+      "img_url": "https://tse1.mm.bing.net/th?id=OIP.QmiLIgfh1Fy2_NJxiCUPqwHaFB&pid=Api&P=0&w=226&h=153",
+      "cost": "6200",
+      "rating": "2",
+      "votes": "577",
+      "views": "810",
+      "paymentMode": [
+        "Cash",
+        "UPI",
+        "Card"
+      ],
+      "id": 4
+    },
+    {
+      "category": [
+        "Pizza Burger",
+        "Asian"
+      ],
+      "name": "Spicy",
+      "img_url": "https://tse3.mm.bing.net/th?id=OIP.rMDthJgdcd8xUjKqhaP5fAHaEK&pid=Api&P=0&w=318&h=179",
+      "cost": "9000",
+      "rating": "1",
+      "votes": "466",
+      "views": "599",
+      "paymentMode": [
+        "Card",
+        "UPI"
+      ],
+      "id": 5
+    },
+    {
+      "category": [
+        "Desserts",
+        "South Indian"
+      ],
+      "name": "Shahi",
+      "img_url": "https://tse2.mm.bing.net/th?id=OIP.zOJEWX0D5az1wb_ujEOfzwHaDt&pid=Api&P=0&w=344&h=172",
+      "cost": "5700",
+      "rating": "4",
+      "votes": "385",
+      "views": "456",
+      "paymentMode": [
+        "Cash"
+      ],
+      "id": 6
+    },
+    {
+      "category": [
+        "Continental",
+        "Pizza Burger"
+      ],
+      "name": "Golden",
+      "img_url": "https://tse4.mm.bing.net/th?id=OIP.pap0G5tNPYWX3jXHWAG3iQHaFj&pid=Api&P=0&w=229&h=172",
+      "cost": "5400",
+      "rating": "3",
+      "votes": "432",
+      "views": "548",
+      "paymentMode": [],
+      "id": 7
+    },
+    {
+      "category": [
+        "Asian",
+        "Continental",
+        "Desserts"
+      ],
+      "name": "Dawat ",
+      "img_url": "https://tse2.mm.bing.net/th?id=OIP.1fuL1YotYrxAmfmXJE6w1AHaE8&pid=Api&P=0&w=277&h=185",
+      "cost": "8300",
+      "rating": "2",
+      "votes": "541",
+      "views": "600",
+      "paymentMode": [
+        "Card",
+        "UPI",
+        "Cash"
+      ],
+      "id": 8
+    },
+    {
+      "category": [
+        "Pizza Burger"
+      ],
+      "name": "Blue Taj",
+      "img_url": "https://tse3.mm.bing.net/th?id=OIP.0nrA5SORI_ldcOqnr07MqQHaEU&pid=Api&P=0&w=264&h=154",
+      "cost": "9400",
+      "rating": "1",
+      "votes": "755",
+      "views": "865",
+      "paymentMode": [
+        "Card",
+        "UPI",
+        "Cash"
+      ],
+      "id": 9
+    },
+    {
+      "category": [
+        "Pizza Burger",
+        "Continental"
+      ],
+      "name": "Kashmiri",
+      "img_url": "https://tse2.mm.bing.net/th?id=OIP.wbpJwCFpW_JZKx50ScRZ8AHaEo&pid=Api&P=0&w=247&h=154",
+      "cost": "5600",
+      "rating": "3",
+      "votes": "468",
+      "views": "740",
+      "paymentMode": [
+        "Card",
+        "UPI"
+      ],
+      "id": 10
+    },
+    {
+      "category": [
+        "Asian",
+        "Desserts"
+      ],
+      "name": "Bites",
+      "img_url": "https://tse1.mm.bing.net/th?id=OIP.ic6tu8rYugfL_isOdXYUtAHaEg&pid=Api&P=0&w=290&h=177",
+      "cost": "8200",
+      "rating": "2",
+      "votes": "428",
+      "views": "945",
+      "paymentMode": [
+        "Cash"
+      ],
+      "id": 11
+    },
+    {
+      "category": [
+        "Continental",
+        "Desserts",
+        "Pizza Burger"
+      ],
+      "name": "Moon",
+      "img_url": "https://tse2.mm.bing.net/th?id=OIP.9nEOejRhsyEJ0aDeT5FDewHaFj&pid=Api&P=0&w=206&h=154",
+      "cost": "10500",
+      "rating": "5",
+      "votes": "867",
+      "views": "10589",
+      "paymentMode": [
+        "Card",
+        "UPI",
+        "Cash"
+      ],
+      "id": 12
+    },
+    {
+      "category": [
+        "Pizza Burger",
+        "Continental"
+      ],
+      "name": "Aqua",
+      "img_url": "https://tse1.mm.bing.net/th?id=OIP.rTxvUhonPiXb5mzUbFyL-wHaEK&pid=Api&P=0&w=275&h=154",
+      "cost": "15000",
+      "rating": "5",
+      "votes": "988",
+      "views": "12500",
+      "paymentMode": [
+        "Cash"
+      ],
+      "id": 13
+    },
+    {
+      "category": [
+        "Continental",
+        "South Indian"
+      ],
+      "name": "Star",
+      "img_url": "https://tse4.mm.bing.net/th?id=OIP.eGzoiEKj3CnXGyqniGwSQAHaFM&pid=Api&P=0&w=219&h=154",
+      "cost": "5300",
+      "rating": "4",
+      "votes": "435",
+      "views": "861",
+      "paymentMode": [
+        "Card",
+        "Cash"
+      ],
+      "id": 14
     }
   ]
 }
