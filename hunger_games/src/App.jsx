@@ -16,7 +16,7 @@ const showForm = ()=> {
   return (
     <div className="App">
      
-     <button onClick={showForm}>{form? "Hide Form" : "Show Form"}</button>
+     <button className='showForm' onClick={showForm}>{form? "Hide Form" : "Show Form"}</button>
      {form? <Forms/>: <RestaurantDetails/>}
     
     </div>

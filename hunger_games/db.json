@@ -8,13 +8,10 @@
       "name": "Spago",
       "img_url": "https://tse3.mm.bing.net/th?id=OIP.jmvknqPOxZtkWH21lKIu6AHaDt&pid=Api&P=0&w=346&h=173",
       "cost": "5000",
-      "rating": "3",
+      "rating": "3.2",
       "votes": "520",
       "views": "344",
-      "paymentMode": [
-        "UPI",
-        "Card"
-      ],
+      "paymentMode": "Card",
       "id": 1
     },
     {
@@ -26,14 +23,10 @@
       "name": "Vikings",
       "img_url": "https://tse3.mm.bing.net/th?id=OIP.DmI1vk_xupFibDeoXXfyQQHaE8&pid=Api&P=0&w=259&h=173",
       "cost": "8000",
-      "rating": "5",
+      "rating": "5.2",
       "votes": "588",
       "views": "711",
-      "paymentMode": [
-        "Cash",
-        "UPI",
-        "Card"
-      ],
+      "paymentMode": "Cash",
       "id": 2
     },
     {
@@ -44,12 +37,10 @@
       "name": "Shine",
       "img_url": "https://tse3.mm.bing.net/th?id=OIP.puh5kldzxZZYBFbOPkCZuwHaFj&pid=Api&P=0&w=207&h=155",
       "cost": "6500",
-      "rating": "4",
+      "rating": "4.8",
       "votes": "465",
       "views": "501",
-      "paymentMode": [
-        "Cash"
-      ],
+      "paymentMode": "Cash",
       "id": 3
     },
     {
@@ -60,14 +51,10 @@
       "name": "Mario",
       "img_url": "https://tse1.mm.bing.net/th?id=OIP.QmiLIgfh1Fy2_NJxiCUPqwHaFB&pid=Api&P=0&w=226&h=153",
       "cost": "6200",
-      "rating": "2",
+      "rating": "2.6",
       "votes": "577",
       "views": "810",
-      "paymentMode": [
-        "Cash",
-        "UPI",
-        "Card"
-      ],
+      "paymentMode": "Card",
       "id": 4
     },
     {
@@ -78,13 +65,10 @@
       "name": "Spicy",
       "img_url": "https://tse3.mm.bing.net/th?id=OIP.rMDthJgdcd8xUjKqhaP5fAHaEK&pid=Api&P=0&w=318&h=179",
       "cost": "9000",
-      "rating": "1",
+      "rating": "1.4",
       "votes": "466",
       "views": "599",
-      "paymentMode": [
-        "Card",
-        "UPI"
-      ],
+      "paymentMode": "Card",
       "id": 5
     },
     {
@@ -95,12 +79,10 @@
       "name": "Shahi",
       "img_url": "https://tse2.mm.bing.net/th?id=OIP.zOJEWX0D5az1wb_ujEOfzwHaDt&pid=Api&P=0&w=344&h=172",
       "cost": "5700",
-      "rating": "4",
+      "rating": "4.7",
       "votes": "385",
       "views": "456",
-      "paymentMode": [
-        "Cash"
-      ],
+      "paymentMode": "Cash",
       "id": 6
     },
     {
@@ -111,10 +93,10 @@
       "name": "Golden",
       "img_url": "https://tse4.mm.bing.net/th?id=OIP.pap0G5tNPYWX3jXHWAG3iQHaFj&pid=Api&P=0&w=229&h=172",
       "cost": "5400",
-      "rating": "3",
+      "rating": "3.5",
       "votes": "432",
       "views": "548",
-      "paymentMode": [],
+      "paymentMode": "Card",
       "id": 7
     },
     {
@@ -126,14 +108,10 @@
       "name": "Dawat ",
       "img_url": "https://tse2.mm.bing.net/th?id=OIP.1fuL1YotYrxAmfmXJE6w1AHaE8&pid=Api&P=0&w=277&h=185",
       "cost": "8300",
-      "rating": "2",
+      "rating": "2.8",
       "votes": "541",
       "views": "600",
-      "paymentMode": [
-        "Card",
-        "UPI",
-        "Cash"
-      ],
+      "paymentMode": "Cash",
       "id": 8
     },
     {
@@ -143,14 +121,10 @@
       "name": "Blue Taj",
       "img_url": "https://tse3.mm.bing.net/th?id=OIP.0nrA5SORI_ldcOqnr07MqQHaEU&pid=Api&P=0&w=264&h=154",
       "cost": "9400",
-      "rating": "1",
+      "rating": "1.3",
       "votes": "755",
       "views": "865",
-      "paymentMode": [
-        "Card",
-        "UPI",
-        "Cash"
-      ],
+      "paymentMode": "Card",
       "id": 9
     },
     {
@@ -161,13 +135,10 @@
       "name": "Kashmiri",
       "img_url": "https://tse2.mm.bing.net/th?id=OIP.wbpJwCFpW_JZKx50ScRZ8AHaEo&pid=Api&P=0&w=247&h=154",
       "cost": "5600",
-      "rating": "3",
+      "rating": "3.7",
       "votes": "468",
       "views": "740",
-      "paymentMode": [
-        "Card",
-        "UPI"
-      ],
+      "paymentMode": "UPI",
       "id": 10
     },
     {
@@ -178,12 +149,10 @@
       "name": "Bites",
       "img_url": "https://tse1.mm.bing.net/th?id=OIP.ic6tu8rYugfL_isOdXYUtAHaEg&pid=Api&P=0&w=290&h=177",
       "cost": "8200",
-      "rating": "2",
+      "rating": "2.3",
       "votes": "428",
       "views": "945",
-      "paymentMode": [
-        "Cash"
-      ],
+      "paymentMode": "Cash",
       "id": 11
     },
     {
@@ -194,15 +163,11 @@
       ],
       "name": "Moon",
       "img_url": "https://tse2.mm.bing.net/th?id=OIP.9nEOejRhsyEJ0aDeT5FDewHaFj&pid=Api&P=0&w=206&h=154",
-      "cost": "10500",
-      "rating": "5",
+      "cost": "7900",
+      "rating": "5.1",
       "votes": "867",
       "views": "10589",
-      "paymentMode": [
-        "Card",
-        "UPI",
-        "Cash"
-      ],
+      "paymentMode": "Card",
       "id": 12
     },
     {
@@ -212,13 +177,11 @@
       ],
       "name": "Aqua",
       "img_url": "https://tse1.mm.bing.net/th?id=OIP.rTxvUhonPiXb5mzUbFyL-wHaEK&pid=Api&P=0&w=275&h=154",
-      "cost": "15000",
-      "rating": "5",
+      "cost": "8400",
+      "rating": "5.5",
       "votes": "988",
       "views": "12500",
-      "paymentMode": [
-        "Cash"
-      ],
+      "paymentMode": "Cash",
       "id": 13
     },
     {
@@ -229,14 +192,94 @@
       "name": "Star",
       "img_url": "https://tse4.mm.bing.net/th?id=OIP.eGzoiEKj3CnXGyqniGwSQAHaFM&pid=Api&P=0&w=219&h=154",
       "cost": "5300",
-      "rating": "4",
+      "rating": "4.6",
       "votes": "435",
       "views": "861",
-      "paymentMode": [
-        "Card",
-        "Cash"
-      ],
+      "paymentMode": "Card",
       "id": 14
+    },
+    {
+      "category": [
+        "Continental",
+        "Desserts"
+      ],
+      "name": "King",
+      "img_url": "https://tse3.mm.bing.net/th?id=OIP.27YJkx--2JIXaUMAQlLoBAHaEK&pid=Api&P=0&w=274&h=154",
+      "cost": "3800",
+      "rating": "3.7",
+      "votes": "577",
+      "views": "899",
+      "paymentMode": "UPI",
+      "id": 15
+    },
+    {
+      "category": [
+        "Asian",
+        "Pizza Burger"
+      ],
+      "name": "The Smoking Fish",
+      "img_url": "https://tse2.mm.bing.net/th?id=OIP.Pu-Q5LvqzgW4gJ5X0RVdJQHaE7&pid=Api&P=0&w=270&h=180",
+      "cost": "8600",
+      "rating": "4.2",
+      "votes": "744",
+      "views": "932",
+      "paymentMode": "Cash",
+      "id": 16
+    },
+    {
+      "category": [
+        "Pizza Burger"
+      ],
+      "name": "Golden Burgers",
+      "img_url": "https://tse4.mm.bing.net/th?id=OIP.yHugyxFS-Cd5JsCSlj3mVQHaFj&pid=Api&P=0&w=245&h=183",
+      "cost": "2300",
+      "rating": "3.1",
+      "votes": "671",
+      "views": "566",
+      "paymentMode": "Cash",
+      "id": 17
+    },
+    {
+      "category": [
+        "Continental",
+        "Asian"
+      ],
+      "name": "Party Fowl ",
+      "img_url": "https://tse1.mm.bing.net/th?id=OIP._dBqROpM4QIP8wZIjxhhagHaFa&pid=Api&P=0&w=251&h=183",
+      "cost": "6700",
+      "rating": "5.3",
+      "votes": "466",
+      "views": "877",
+      "paymentMode": "UPI",
+      "id": 18
+    },
+    {
+      "category": [
+        "Desserts",
+        "South Indian"
+      ],
+      "name": "Hot Bird",
+      "img_url": "https://tse3.mm.bing.net/th?id=OIP.QCG65XFDhdqBmChUBhxamwHaE-&pid=Api&P=0&w=258&h=173",
+      "cost": "8400",
+      "rating": "4.4",
+      "votes": "756",
+      "views": "926",
+      "paymentMode": "Cash",
+      "id": 19
+    },
+    {
+      "category": [
+        "Pizza Burger",
+        "Asian"
+      ],
+      "name": "Wish You Were Beer ",
+      "img_url": "https://tse1.mm.bing.net/th?id=OIP.ta60z_Zr1LS4-qbnzCU4kgHaE8&pid=Api&P=0&w=258&h=172",
+      "cost": "9100",
+      "rating": "5.6",
+      "votes": "655",
+      "views": "854",
+      "paymentMode": "UPI",
+      "id": 20
     }
   ]
 }

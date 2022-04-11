@@ -1,5 +1,5 @@
 import axios from "axios";
-import { useState,useEffect } from "react";
+import { useState } from "react";
 import "./Forms.css";
 
 export const Forms = ()=>{
@@ -12,7 +12,7 @@ const [formData,setFormData] = useState({
     rating:"",
     votes:"",
     views:"",
-    paymentMode:[]
+    paymentMode:""
 })
 
 
@@ -71,7 +71,7 @@ const handleChange = (e)=> {
 
 
 const handleSubmit = (e)=>{
-   e.preventDefault();
+e.preventDefault();
 axios.post("http://localhost:3001/get-restaurants",formData)
 alert("Restaurent added Successfully");
 setFormData({
@@ -82,7 +82,7 @@ setFormData({
     rating:"",
     votes:"",
     views:"",
-    paymentMode:[]
+    paymentMode:""
 })
 
 }
@@ -150,6 +150,7 @@ setFormData({
             <input type="submit" value="Add Restaurent"/>
         </form>
 
+        
 
         </>
     )
